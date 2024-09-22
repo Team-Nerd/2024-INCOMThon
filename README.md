@@ -1,5 +1,5 @@
 # INCOMThon
-Inha University's INCOMThon Project for the 2nd Semester Team Nerd
+Inha University's 2nd Semester 2024 Team Nerd's INCOMThon Project Repository
 
 - ??? Web : 준비중
 
