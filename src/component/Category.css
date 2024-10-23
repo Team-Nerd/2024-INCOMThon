@@ -1,0 +1,196 @@
+
+  
+  /* .triangle1 {
+      top: 200px;
+      width: 0px;
+      height: 0px;
+      left: 400px;
+      position: absolute;
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 18px solid #121212;
+      border-right: 18px solid transparent;
+  }
+  .triangle2 {
+      top: 427px;
+      width: 0px;
+      height: 0px;
+      left: 806px;
+      position: absolute;
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 18px solid #121212;
+      border-right: 18px solid transparent;
+  }
+  .triangle3 {
+      top: 427px;
+      width: 1px;
+      height: 1px;
+      left: 1200px;
+      position: absolute;
+      border-bottom: 10px solid transparent;
+      border-top: 10px solid transparent;
+      border-left: 18px solid #121212;
+      border-right: 18px solid transparent;
+  } */
+  
+  .HoverText {
+      background-color: white;
+      font-size: 19px;
+      line-height: 32px;
+      text-align: center;
+      color: #121212;
+      cursor: pointer;
+      transition: color 0.1s ease;
+    }
+    
+    .HoverText.hovered {
+      color: #0890FF;
+    }
+    
+    .hover-box {
+      position: absolute;
+      top: 100%; /* 텍스트 아래에 위치 */
+      left: 0px;
+      width: 100%;
+      background-color: #BBDEff; /* 배경 색상 */
+      border: 1px solid #d3d3d3;
+      z-index: 100;
+      padding: 5px 0;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    
+    .hover-box div {
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #121212;
+      border-bottom: 1px solid black;
+      font-size: 14px;
+    }
+    
+    .hover-box div:last-child {
+      border-bottom: none; /* 마지막 요소는 경계선 제거 */
+    }
+    
+    .arrow {
+      margin-left: auto;
+    }
+    
+    .hover-box div:hover {
+      color: #0890FF;
+      cursor: pointer;
+    }
+    
+    /*호버 2*/
+    .HoverText2 {
+      background-color: white;
+      font-size: 19px;
+      line-height: 32px;
+      text-align: center;
+      color: #121212;
+      cursor: pointer;
+      transition: color 0.1s ease;
+    }
+    
+    .HoverText2.hovered {
+      color: #0890FF;
+    }
+    
+    .hover-box2 {
+      position: absolute;
+      top: 100%; /* 텍스트 아래에 위치 */
+      left: 0;
+      width: 100%;
+      background-color: #BBDEff; /* 배경 색상 */
+      border: 1px solid #d3d3d3;
+      z-index: 100;
+      padding: 5px 0;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    
+    .hover-box2 div {
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #121212;
+      border-bottom: 1px solid black;
+      font-size: 14px;
+    }
+    
+    .hover-box2 div:last-child {
+      border-bottom: none; /* 마지막 요소는 경계선 제거 */
+    }
+    
+    .arrow {
+      margin-left: auto;
+    }
+    
+    .hover-box2 div:hover {
+      color: #0890FF;
+      cursor: pointer;
+    }
+    /*호버3*/
+    .HoverText3 {
+      background-color: white;
+      font-size: 19px;
+      line-height: 32px;
+      text-align: center;
+      color: #121212;
+      cursor: pointer;
+      transition: color 0.1s ease;
+    }
+    
+    .HoverText3.hovered {
+      color: #0890FF;
+    }
+    
+    .hover-box3 {
+      position: absolute;
+      top: 100%; /* 텍스트 아래에 위치 */
+      left: 0;
+      width: 100%;
+      background-color: #BBDEff; /* 배경 색상 */
+      border: 1px solid #d3d3d3;
+      z-index: 100;
+      padding: 5px 0;
+      display: flex;
+      flex-direction: column;
+    }
+  
+    
+    .hover-box3 div {
+      padding: 10px 20px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      color: #121212;
+      border-bottom: 1px solid black;
+      font-size: 14px;
+    }
+    
+    .hover-box3 div:last-child {
+      border-bottom: none; /* 마지막 요소는 경계선 제거 */
+    }
+    
+    .arrow {
+      margin-left: auto;
+    }
+    
+    .hover-box3 div:hover {
+      color: #0890FF;
+      cursor: pointer;
+    }
+
+    .Categorybox{
+        position: absolute;
+        margin-top: 190px;
+        width: 100%;
+        border: 0.8px solid #b6b6b6;
+    }

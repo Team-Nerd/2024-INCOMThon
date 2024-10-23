@@ -1,0 +1,75 @@
+.profile-image{
+    width: 220px;
+    height: 220px;
+    border-radius: 7px;
+    position: absolute;
+    margin-top: 278px;
+    margin-left: 1033px;
+}
+
+.profile-introbox{
+    width: 218px;
+    height: 135px;
+    border: 1px solid #b7b6b6;
+    border-radius: 7px;
+    position: absolute;
+    background-color: transparent;
+    margin-top: 518px;
+    margin-left: 1033px;
+}
+
+.profile-intro-seperate-bar{
+    width: 219px;
+    height: 30px;
+    font-size: 14px;
+    text-align: center;
+    line-height: 30px;
+    border-bottom: 1px solid #b7b6b6;
+    position: absolute;
+    margin-top: 518px;
+    margin-left: 1033px;
+    background-color: transparent;
+}
+
+.profile-intro-text{
+    width: 200px;
+    height: 90px;
+    font-size: 14px;
+    text-align: left;
+    line-height: 19px;
+    position: absolute;
+    margin-top: 555px;
+    margin-left: 1042px;
+
+    /* word-break: keep-all; */
+    /* white-space: normal; */
+}
+
+.profile-my-point{
+    font-size: 16px;
+    font-weight: 600;
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 1035px;
+}
+
+.profile-point-icon{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    margin-top: 670px;
+    margin-left: 1120px;
+}
+
+.profile-point-box{
+    width: 100px;
+    height: 24px;
+    position: absolute;
+    margin-top: 666px;
+    margin-left: 1153px;
+    background-color: #0890ff;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 24px;
+    color: white;
+}

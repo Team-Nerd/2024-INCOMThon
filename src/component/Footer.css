@@ -1,0 +1,38 @@
+.intro{
+    font-size: 18px;
+    position: absolute;
+    margin-top: 745px;
+    margin-left: 165px;
+}
+
+.seperate-bar3{
+    font-size: 25px;
+    position: absolute;
+    margin-top: 740px;
+    margin-left: 273px;
+    opacity: 0.6;
+    font-weight: 250;
+}
+
+.contact{
+    font-size: 18px;
+    position: absolute;
+    margin-top: 745px;
+    margin-left: 327px;
+}
+
+.seperate-bar4{
+    font-size: 25px;
+    position: absolute;
+    margin-top: 740px;
+    margin-left: 440px;
+    opacity: 0.6;
+    font-weight: 250;
+}
+
+.terms-of-use{
+    font-size: 18px;
+    position: absolute;
+    margin-top: 745px;
+    margin-left: 500px;
+}

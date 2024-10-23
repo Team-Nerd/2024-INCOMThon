@@ -1,0 +1,10 @@
+.profile-box{
+    width: 280px;
+    height: 460px;
+    position: absolute;
+    margin-top: 245px;
+    margin-left: 1000px;
+    background-color: transparent;
+    border: 1.5px solid #cbcbcb;
+    border-radius: 7px;
+}
